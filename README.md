@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Unicorn-devil/Unicorn-devil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Amir Mahdi.
 
-Here are some ideas to get you started:
+**Python Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in building software, exploring new technologies, and understanding how things work.
+
+### Currently
+
+- Building projects with Python.
+- Learning Linux (LPIC-1).
+- Exploring Artificial Intelligence.
+
+### Interests
+
+Python Development · Linux · Artificial Intelligence
+
+---
+
+### Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/amir-mahdi-rahmani-064b57395)
+
+*Always learning. Always building.*
